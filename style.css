@@ -68,6 +68,11 @@ button{
     font-weight: 500;
     margin-bottom: 20px;
     transition: 0.5s;
+    z-index: 5;
+}
+button:hover{
+    padding: 14px;
+    background: #3c4e80;
 }
 button:hover{
     background: #6884d3;
@@ -96,6 +101,7 @@ p a:hover{
 }
 h1 {
     font-size: 50px;
+    color: white;
 }
 
 span {
@@ -104,10 +110,61 @@ span {
 
 .box p {
     font-size: 22px;
+    color: white;
 }
 
 .box button {
     display: block;
     width: 300px;
     margin: 0 auto;
+    z-index: 5;
+}
+.box button:hover{
+        transform: scale(1.05);
+    background:linear-gradient( 90deg, #0066ff,#031227) ;
+    color: white;
+    box-shadow: 0 0 12px wheat, 0 0 18px black;
+    filter: brightness(1.15);
+}
+.tech-circle{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: 0;
+    pointer-events: none;
+}
+.circle{
+    pointer-events: none;
+    position: absolute;
+    border-radius: 50%;
+    border: 1px solid rgba(0,247,255,0.2);
+    z-index: 0;
+    pointer-events: none;
+}
+.circle:nth-child(1){
+    width: 200px;
+    height: 200px;
+    top: 10%;
+    left: 10%;
+}
+.circle:nth-child(2){
+    width: 300px;
+    height: 300px;
+    top: 60%;
+    left: 80%;
+}
+.circle:nth-child(3){
+    width: 150px;
+    height: 150px;
+    top: 70%;
+    left: 20%;
+}
+.circle:nth-child(4){
+    width: 120px;
+    height: 120px;
+    top: 20%;
+    left: 70%;
 }
