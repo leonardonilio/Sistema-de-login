@@ -1,20 +1,3 @@
-<details>
-<summary>Português 🇧🇷</summary>
-
-# Título em Português
-
-Este é o texto em português.
-
-</details>
-
-<details>
-<summary>English 🇺🇸</summary>
-
-# English Title
-
-This is the text in English.
-
-</details>
 
 # Sistema de Login em PHP
 
