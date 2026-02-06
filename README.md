@@ -1,3 +1,21 @@
+<details>
+<summary>Português 🇧🇷</summary>
+
+# Título em Português
+
+Este é o texto em português.
+
+</details>
+
+<details>
+<summary>English 🇺🇸</summary>
+
+# English Title
+
+This is the text in English.
+
+</details>
+
 # Sistema de Login em PHP
 
 Sistema simples de autenticação desenvolvido em **PHP**, **MySQL**, **HTML**, **CSS** e **JavaScript**, permitindo registro de usuários, login, controle de sessão e logout. Feito para estudos sobre autenticação e integração com banco de dados.
