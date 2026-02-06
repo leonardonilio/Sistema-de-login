@@ -1,4 +1,9 @@
+<details>
+<summary>Instalação</summary>
 
+📄 Leia o arquivo: [instalacao.md](docs/instalacao.md)
+
+</details>
 # Sistema de Login em PHP
 
 Sistema simples de autenticação desenvolvido em **PHP**, **MySQL**, **HTML**, **CSS** e **JavaScript**, permitindo registro de usuários, login, controle de sessão e logout. Feito para estudos sobre autenticação e integração com banco de dados.
