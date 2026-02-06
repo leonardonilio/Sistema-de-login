@@ -1,7 +1,7 @@
 <details>
 <summary>Instalação</summary>
 
-📄 Leia o arquivo: [instalacao.md](docs/instalacao.md)
+📄 Leia o arquivo: [instalacao.md](.README.md)
 
 </details>
 # Sistema de Login em PHP
